@@ -1,9 +1,13 @@
 _repo: Early-Lives-of-Charlemagne-by-Eginhard-and-the-Monk-of-St-Gall-edited-by-Prof-A-J-Grant_48870
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Grant, A. J.
     gutenberg_agent_id: '45009'
     url: http://www.gutenberg.org/2009/agents/45009
+covers:
+- cover_type: archival
+  image_path: 48870-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Einhard
@@ -15,6 +19,8 @@ creator:
 description: "Vita Karoli Magni (Life of Charles the Great) is a biography of Charlemagne,\
   \ King of the Franks and Holy Roman Emperor, written by Einhard.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48870#Early-Lives-of-Charlemagne-by-Eginhard-and-the-Monk-of-St-Gall-edited-by-Prof-A-J-Grant
 gutenberg_issued: '2015-05-03'
 gutenberg_type: Text
 identifiers:
