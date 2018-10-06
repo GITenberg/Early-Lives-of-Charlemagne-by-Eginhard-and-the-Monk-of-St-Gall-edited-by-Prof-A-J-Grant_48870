@@ -30,6 +30,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Early Lives of Charlemagne by Eginhard and the Monk of St Gall edited by Prof.
   A. J. Grant
 url: http://www.gutenberg.org/ebooks/48870
